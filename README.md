@@ -118,6 +118,6 @@ This landing page is fully optimized for search engines with:
 
 ## License
 
-© 2025 by Innovea Logitech
+© 2026 by Innovea Logitech
 
 

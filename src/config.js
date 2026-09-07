@@ -318,7 +318,7 @@ export const config = {
   footer: {
     visible: true,
     description: "India's Most Doctor Friendly EMR",
-    copyright: "© 2025 by Innovea Logitech",
+    copyright: "© 2026 by Innovea Logitech",
     social: [
       { 
         name: "Email", 
